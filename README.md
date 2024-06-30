@@ -8,3 +8,6 @@
 
 3. How can computer science help me in reaching my goals?
        Computer science helps us navigate computers to achieve things we could not do before, or to do it much easier than before. These skills I've developed through years of computer science classes will help me further refine my skills in working with computers before I graduate, and will assist me in finding and building a career once afterward. Computational graphics and visualization will allow me to bring gui, 3D and 2D scenes to life in a way I could not imagine before. Knowing where an object needs to sit in a scene can be useful in a variety of ways, both professionally and personally.
+
+
+Project Zip File: https://www.dropbox.com/scl/fi/nd8tmwqlfwl65oi39yw50/CS330FinalProject.zip?rlkey=xp2vrxfyucyeyqwono96gg9ta&st=w868h74u&dl=0
